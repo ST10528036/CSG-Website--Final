@@ -224,6 +224,8 @@ while maintaining a professional charitable image.
 
 - Improved branding consistency throughout the website.
 
+- Used a poster i created as part of the events section. 
+
 ## Typography and Styling
 
 - Updated fonts to create a more modern and sporty appearance.
