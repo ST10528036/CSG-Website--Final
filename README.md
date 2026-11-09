@@ -108,7 +108,6 @@ while maintaining a professional charitable image.
 | Page | Description |
 |------|-------------|
 | Home | Introduces CSG and highlights its purpose and calls-to-action. |
-| Events | Displays upcoming and planned events. |
 | About Us | Explains the organisation, mission and values. |
 | Contact Us | Provides CSG contact information. |
 | Donate | Explains donation levels and supporter benefits. |
