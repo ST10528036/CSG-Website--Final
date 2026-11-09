@@ -1,6 +1,6 @@
-# CSG-Website--Final
+# CSG-Website-Final
 
-# Club Sport Goodwill (CSG)
+# ClubSport Goodwill (CSG)
 
 ## Supercar Charity Organisation
 
@@ -21,7 +21,7 @@ Emeris Sandton
 
 ## Project Overview
 
-Club Sport Goodwill (CSG) is a concept-based supercar charity
+ClubSport Goodwill (CSG) is a concept-based supercar charity
 organisation that brings together supercar owners, enthusiasts,
 supporters and charitable causes.
 
